@@ -1,16 +1,22 @@
-## Hi there 👋
+## Bem-vindo, sou o Mauro!
 
-<!--
-**mauropahoor/mauropahoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Estudante de Ciências da Computação na Unesp Rio Claro  
+- 💻 Formação técnica em Informática pelo CEFET/RJ  
+- 🌍 Fluente em Português e Inglês.
+- 💬 Pode perguntar qualquer coisa sobre o código — estou aqui pra ajudar!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Welcome!
+
+- 🎓 Science IT student at Unesp Rio Claro.
+- 💻 Technical degree in IT at CEFET/RJ.
+- 🌍 Fluent in Portuguese and English.
+- 💬 Ask away any questions about my code - I'm here to help!
+
+- ## Experience with
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,angular,spring,mysql,git,docker,linux" />
+  </a>
+</p>
