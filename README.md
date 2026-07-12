@@ -8,10 +8,18 @@
   <a href="https://www.linkedin.com/in/mauropahoor/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-## Experience with
+## Frameworks and Languages
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,angular,spring,mysql,git,docker,linux" />
+    <img src="https://skillicons.dev/icons?i=java,python,angular,spring,mysql,c" />
+  </a>
+</p>
+
+## Infrastructure
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,linux,aws" />
   </a>
 </p>
